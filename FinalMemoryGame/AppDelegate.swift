@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FinalMemoryGame
 //
-//  Created by samuelhan on 5/8/17.
+//  Created by samuelhan on 5/5/17.
 //  Copyright © 2017 Samuel Han. All rights reserved.
 //
 
@@ -16,6 +16,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        let startViewController = StartViewController()
+        let navigationController = UINavigationController(rootViewController: startViewController)
+        window = UIWindow()
+        window?.rootViewController = navigationController
+        window?.makeKeyAndVisible()
         return true
     }
 
