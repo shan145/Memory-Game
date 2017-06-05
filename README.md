@@ -1,10 +1,14 @@
 # Memory-Game
 Project Name: Memory Game
 
-Description: Simplified version of a Memory Game made through Swift. Involves pushing via navigation controllers,
+## Description
+Simplified version of a Memory Game made through Swift. Involves pushing via navigation controllers,
 selecting and mutating UIImageViews, incorporating multiple cocoa touch files, etc. 
 
-Installation: Requires XCode to work
+## Installation
+Install XCode on Mac, and download files to run program
+
+
 
 
 Copyright (c) [2017] [Samuel Han]
