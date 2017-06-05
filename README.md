@@ -1,4 +1,4 @@
-# Memory-Game
+# Memory Game
 Project Name: Memory Game
 
 ## Description
@@ -9,7 +9,7 @@ selecting and mutating UIImageViews, incorporating multiple cocoa touch files, e
 Install XCode on Mac, and download files to run program
 
 
-
+## License 
 
 Copyright (c) [2017] [Samuel Han]
 
