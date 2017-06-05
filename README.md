@@ -1,5 +1,4 @@
 # Memory Game
-Project Name: Memory Game
 
 ## Description
 Simplified version of a Memory Game made through Swift. Involves pushing via navigation controllers,
