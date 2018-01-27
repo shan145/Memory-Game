@@ -13,7 +13,7 @@ class StartViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        view.backgroundColor = .white
+        view.backgroundColor = .blue
         
         let memoryImage = UIImageView(frame: CGRect(x: 100, y: 100, width: 200, height: 200))
         memoryImage.image = #imageLiteral(resourceName: "memory")
